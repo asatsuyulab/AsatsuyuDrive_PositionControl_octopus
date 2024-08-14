@@ -1,0 +1,4 @@
+D:/Tatsu/Documents/MotorControl_Workbench/AsatsuyuDrive_PositionControl_octopus/Src/register_interface.c:38:16:RI_SetRegCommandParser	93
+D:/Tatsu/Documents/MotorControl_Workbench/AsatsuyuDrive_PositionControl_octopus/Src/register_interface.c:112:16:RI_GetRegCommandParser	115
+D:/Tatsu/Documents/MotorControl_Workbench/AsatsuyuDrive_PositionControl_octopus/Src/register_interface.c:1147:9:RI_GetIDSize	2
+D:/Tatsu/Documents/MotorControl_Workbench/AsatsuyuDrive_PositionControl_octopus/Src/register_interface.c:1181:16:RI_GetPtrReg	18
